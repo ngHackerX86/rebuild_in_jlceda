@@ -1,0 +1,26 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "JLC Gerber Exporter",
+  "description": "KiCad Gerber/Excellon 出图、文件整理、检查与打包工具；输出需要人工复核。",
+  "description_full": "复用 KiCad 绘图器出 Gerber/Excellon，再按嘉立创习惯重命名（.GTL/.GBL/.GTS/.GBS/.GTO/.GBO/.GKO/.GTP/.GBP + -PTH/-NPTH.DRL），并做文件级预检（板框闭合性、最小线宽/孔径、包络越界、钻孔重复、命名合法性）与板级预检（走线宽、过孔环、焊盘环、孔间距），最后打包为含下单说明与预检清单的 zip。",
+  "identifier": "com.dafeiyu.kicad-jlc-exporter",
+  "type": "plugin",
+  "author": {
+    "name": "ngHackerX86",
+    "contact": {
+      "web": "https://github.com/ngHackerX86"
+    }
+  },
+  "license": "MIT",
+  "resources": {
+    "homepage": "https://github.com/ngHackerX86/rebuild_in_jlceda/tree/main/kicad_jlc_exporter",
+    "bug_tracker": "https://github.com/ngHackerX86/rebuild_in_jlceda/issues"
+  },
+  "versions": [
+    {
+      "version": "0.5.0",
+      "status": "development",
+      "kicad_version": "7.0"
+    }
+  ]
+}

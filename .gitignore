@@ -1,0 +1,65 @@
+# ---------- 构建产物与本地状态 ----------
+out/
+release/
+build/
+dist/
+*.egg-info/
+
+# ---------- 测试期临时资料（不入库）----------
+scratch/
+
+# ---------- 外部格式规范镜像（含各自 .git，不入库）----------
+refs_easyeda/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# ---------- 文档：只提交 .md，docx 为本地排版产物 ----------
+*.docx
+
+# ---------- 编辑器 / 系统 ----------
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
+
+# ---------- KiCad 本地产物 ----------
+*.kicad_prl
+*-backups/
+fp-info-cache
+_autosave-*
+*.lck
+
+# ---------- 隐私 / 凭据（禁止入库）----------
+.env
+.env.*
+!env.example
+credentials*
+secrets*
+*.pem
+*.key
+*.p12
+
+# ---------- 评审稿（发给外部审阅的说明，不入库）----------
+*_供审阅.md
+
+# ---------- 日志与临时脚本 ----------
+*.log
+/_*.py
+
+# ---------- 本地工作规范（只在本机生效，不入库）----------
+AGENTS.md
+
+# ---------- 第三方示例工程（各自有独立仓库与许可，不入库）----------
+# 获取方式：git clone https://github.com/HeyPCB/esp32-s3-devkit.git demo_esp32s3
+demo_esp32s3/
+
+# 插件模板（从 out/ 抽出后需要入库，勿被 out/ 规则误伤）
+!rebuild_in_jlc/templates/

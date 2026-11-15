@@ -1,0 +1,72 @@
+﻿name: Bug 报告
+description: 转换结果异常、流程报错或 DRC 结果可疑
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交前请先看 [支持范围与限制](https://github.com/ngHackerX86/rebuild_in_jlceda/blob/main/docs/支持范围与限制.md)，
+        很多差异属于已知限制。**请勿上传整个 `out/` 目录**，也不要包含账号工程标识。
+  - type: input
+    id: version
+    attributes:
+      label: 版本
+      description: 发布包版本（如 0.4.0）+ 提交号（`git rev-parse --short HEAD`）
+      placeholder: "0.4.0 / b9a0a2d"
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: 环境
+      description: Windows 版本、KiCad 版本、嘉立创EDA 版本
+      placeholder: "Windows 11 / KiCad 10.0.8 / EDA 专业版 4.1.100"
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 失败或异常的步骤
+      options:
+        - ① 生成 .eprj3
+        - ② 打包 .epro2
+        - ③ 导入账号工作区
+        - ④ 打开工程与 PCB
+        - ④b 补写反相文字
+        - ⑤ 对齐设计规则
+        - ⑥ 重建覆铜
+        - ⑦ DRC 复测
+        - ⑧ 导出 Gerber
+        - ⑨ 逐层对照
+        - 插件安装 / 菜单不出现
+        - 其它
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 现象与期望
+      description: 实际发生了什么，你期望发生什么
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 脱敏后的日志片段
+      description: 优先给 `step_<步骤>.log`、`env.log`、`layer_compare.md` 的关键片段；删除本机路径与账号工程名
+      render: text
+  - type: textarea
+    id: board
+    attributes:
+      label: 可公开的最小复现板
+      description: 能公开的自造小板最好；不能公开就描述板子特征（层数、焊盘类型、是否含铺铜/圆弧/反相文字）
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 确认
+      options:
+        - label: 已确认不是「支持范围与限制」里列出的已知问题
+          required: true
+        - label: 日志已脱敏（无本机路径、账号工程名、个人邮箱）
+          required: true

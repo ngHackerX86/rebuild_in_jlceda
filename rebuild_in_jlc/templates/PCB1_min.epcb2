@@ -1,0 +1,201 @@
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"ac2f26d6b756dacc","uuid":"a3a1e00be1d8537a","updateTime":1794647173256,"version":"1794647173256","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":2,"id":"META"}||{"title":"Capacitor_SMD:C_0402_1005Metric","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":3,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"c328bb54a430edd7","uuid":"d9ace1992db49043","updateTime":1794647173256,"version":"1794647173256","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":5,"id":"META"}||{"title":"Capacitor_SMD:C_0402_1005Metric","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"a3a1e00be1d8537a"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"73e6a24be218c9ea","uuid":"dd7613e3b1a07c83","updateTime":1794647173256,"version":"1794647173256","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":7,"id":"META"}||{"title":"Capacitor_SMD:C_0603_1608Metric","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":8,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"fd4aa3a93bf270c0","uuid":"531cbf8051c5f457","updateTime":1794647173256,"version":"1794647173256","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":10,"id":"META"}||{"title":"Capacitor_SMD:C_0603_1608Metric","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"dd7613e3b1a07c83"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"7f5a5f1635053607","uuid":"00d51aa4ce3fdd32","updateTime":1794647173256,"version":"1794647173256","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":12,"id":"META"}||{"title":"Capacitor_SMD:C_0805_2012Metric","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":13,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"2d5b6ab5681b27dc","uuid":"cac6136468fe32b1","updateTime":1794647173256,"version":"1794647173256","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":15,"id":"META"}||{"title":"Capacitor_SMD:C_0805_2012Metric","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"00d51aa4ce3fdd32"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"c608a03c9d769f43","uuid":"5a8357102f7499f5","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":17,"id":"META"}||{"title":"Resistor_SMD:R_0402_1005Metric","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":18,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"c39b691c6c852f01","uuid":"d77b3d76413e8a0f","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":20,"id":"META"}||{"title":"Resistor_SMD:R_0402_1005Metric","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"5a8357102f7499f5"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"cfb8796296bb0b73","uuid":"04da5ad2241b2b84","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":22,"id":"META"}||{"title":"Diode_SMD:D_SOD-123","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":23,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"650ee2581ddd29a9","uuid":"0b5fc04d9decf156","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":25,"id":"META"}||{"title":"Diode_SMD:D_SOD-123","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"04da5ad2241b2b84"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"e59244ffdde5c5aa","uuid":"3cd2ddbc9d82ea0e","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":27,"id":"META"}||{"title":"Resistor_SMD:R_0603_1608Metric","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":28,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"4da385a5982bccfc","uuid":"af25f4fb702d5fb9","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":30,"id":"META"}||{"title":"Resistor_SMD:R_0603_1608Metric","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"3cd2ddbc9d82ea0e"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"fc61ee429dc3ccf9","uuid":"317c4387cda65067","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":32,"id":"META"}||{"title":"LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":33,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"010ee033ff1f2efd","uuid":"30a985e182e3eab7","updateTime":1794647173257,"version":"1794647173257","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":35,"id":"META"}||{"title":"LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"317c4387cda65067"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"f761a7488f849b0d","uuid":"6c215588b993041f","updateTime":1794647173258,"version":"1794647173258","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":37,"id":"META"}||{"title":"Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":38,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"66b2286e4fcb3eb6","uuid":"1ed56ea19e4028a2","updateTime":1794647173258,"version":"1794647173258","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":40,"id":"META"}||{"title":"Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"6c215588b993041f"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"d182468c305d8a76","uuid":"5657f7d485816ce3","updateTime":1794647173259,"version":"1794647173259","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":42,"id":"META"}||{"title":"HeyPCB_Verified:SOT95P280X145-6N","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":43,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"daa87f673daf8deb","uuid":"9d6b028483a9b539","updateTime":1794647173259,"version":"1794647173259","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":45,"id":"META"}||{"title":"HeyPCB_Verified:SOT95P280X145-6N","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"5657f7d485816ce3"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"9d52f22876fa2b31","uuid":"36ecb4b3e3a80243","updateTime":1794647173259,"version":"1794647173259","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":47,"id":"META"}||{"title":"RF_Module:ESP32-S3-WROOM-1","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":48,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"937353c510ddfa79","uuid":"ccc3059d7a73b4fd","updateTime":1794647173259,"version":"1794647173259","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":50,"id":"META"}||{"title":"RF_Module:ESP32-S3-WROOM-1","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"36ecb4b3e3a80243"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"5fccbd0a9ad8fd9b","uuid":"b461ebdc4efac338","updateTime":1794647173260,"version":"1794647173260","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":52,"id":"META"}||{"title":"Button_Switch_SMD:SW_SPST_TL3305A","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":53,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"fed9cc15baced18e","uuid":"baa63721b6e55e04","updateTime":1794647173260,"version":"1794647173260","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":55,"id":"META"}||{"title":"Button_Switch_SMD:SW_SPST_TL3305A","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"b461ebdc4efac338"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"db4517a314f54e15","uuid":"87284a6b38412e29","updateTime":1794647173261,"version":"1794647173261","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":57,"id":"META"}||{"title":"Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":58,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"36fc7f2e210b25db","uuid":"389d336d61dd306a","updateTime":1794647173261,"version":"1794647173261","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":60,"id":"META"}||{"title":"Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"87284a6b38412e29"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"FOOTPRINT","client":"d7575d96e91deca5","uuid":"928a2838757efaa3","updateTime":1794647173261,"version":"1794647173261","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":62,"id":"META"}||{"title":"Package_TO_SOT_SMD:SOT-223-3_TabPin2","description":"","tags":[],"source":""}|
+{"type":"CANVAS","ticket":63,"id":"CANVAS"}||{"originX":0,"originY":0}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"DEVICE","client":"4ab75275658ffc24","uuid":"3b94e29f2a750e8f","updateTime":1794647173261,"version":"1794647173261","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":65,"id":"META"}||{"title":"Package_TO_SOT_SMD:SOT-223-3_TabPin2","description":"","tags":[],"source":"","images":[],"attributes":{"Symbol":"","Footprint":"928a2838757efaa3"}}|
+{"type":"DOCHEAD","ticket":0}||{"docType":"PCB","client":"cac2b0e9ccbef9d1","uuid":"1f328faf116a3176","updateTime":1794647173254,"version":"1794647173254","editVersion":"4.1.36","user":{}}|
+{"type":"META","ticket":67,"id":"META"}||{"title":"PCB1","parent":"","source":"","board":"bfaa9deb263686a1","zIndex":null}|
+{"type":"PRIMITIVE","ticket":68,"id":"[\"PRIMITIVE\",\"ALL\"]"}||{"display":true,"pick":false}|
+{"type":"PRIMITIVE","ticket":69,"id":"[\"PRIMITIVE\",\"COMPONENT\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":70,"id":"[\"PRIMITIVE\",\"PROPERTY\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":71,"id":"[\"PRIMITIVE\",\"TRACK\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":72,"id":"[\"PRIMITIVE\",\"FPC_STIFFENER\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":73,"id":"[\"PRIMITIVE\",\"TESTPOINT\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":74,"id":"[\"PRIMITIVE\",\"PAD\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":75,"id":"[\"PRIMITIVE\",\"VIA\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":76,"id":"[\"PRIMITIVE\",\"SUTUREHOLE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":77,"id":"[\"PRIMITIVE\",\"TEXT\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":78,"id":"[\"PRIMITIVE\",\"IMAGE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":79,"id":"[\"PRIMITIVE\",\"PICTURE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":80,"id":"[\"PRIMITIVE\",\"DIMENSION\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":81,"id":"[\"PRIMITIVE\",\"BOARDOUTLINE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":82,"id":"[\"PRIMITIVE\",\"SLOTREGION\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":83,"id":"[\"PRIMITIVE\",\"COPPEROUTLINE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":84,"id":"[\"PRIMITIVE\",\"COPPERFILLED\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":85,"id":"[\"PRIMITIVE\",\"FILLREGIEN\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":86,"id":"[\"PRIMITIVE\",\"PROHIBITEDREGION\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":87,"id":"[\"PRIMITIVE\",\"LINE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":88,"id":"[\"PRIMITIVE\",\"CONSTRAINT\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":89,"id":"[\"PRIMITIVE\",\"PADSPAIR\"]"}||{"display":true,"pick":false}|
+{"type":"PRIMITIVE","ticket":90,"id":"[\"PRIMITIVE\",\"NETWORK\"]"}||{"display":true,"pick":false}|
+{"type":"PRIMITIVE","ticket":91,"id":"[\"PRIMITIVE\",\"TEARDROP\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":92,"id":"[\"PRIMITIVE\",null]"}||{"display":true,"pick":false}|
+{"type":"PRIMITIVE","ticket":93,"id":"[\"PRIMITIVE\",\"GROUP\"]"}||{"display":true,"pick":false}|
+{"type":"PRIMITIVE","ticket":94,"id":"[\"PRIMITIVE\",\"LOCKED\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":95,"id":"[\"PRIMITIVE\",\"UNLOCKED\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":96,"id":"[\"PRIMITIVE\",\"SHELL\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":97,"id":"[\"PRIMITIVE\",\"BOSS\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":98,"id":"[\"PRIMITIVE\",\"CREASE\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":99,"id":"[\"PRIMITIVE\",\"SIDESHELLCUT\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":100,"id":"[\"PRIMITIVE\",\"TOPSHELLCUT\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":101,"id":"[\"PRIMITIVE\",\"TOPBOTTOMENTITY\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":102,"id":"[\"PRIMITIVE\",\"SIDEENTITY\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":103,"id":"[\"PRIMITIVE\",\"D3BODY\"]"}||{"display":true,"pick":true}|
+{"type":"CANVAS","ticket":104,"id":"CANVAS"}||{"originX":0,"originY":0,"unit":"mil","gridXSize":5,"gridYSize":5,"snapXSize":5,"snapYSize":5,"altSnapXSize":1,"altSnapYSize":1,"gridType":"OUTLETS","multiGridType":"NONE","multiGridRatio":5,"highlightValue":0.5,"layerBrightness":"NORMAL"}|
+{"type":"LAYER","ticket":105,"id":"[\"LAYER\",1]"}||{"layerId":1,"layerType":"TOP","layerName":"Top Layer","use":true,"show":true,"locked":false,"activeColor":"#ff0000","activateTransparency":1,"inactiveColor":"#7f0000","inactiveTransparency":1}|
+{"type":"LAYER","ticket":106,"id":"[\"LAYER\",2]"}||{"layerId":2,"layerType":"BOTTOM","layerName":"Bottom Layer","use":true,"show":true,"locked":false,"activeColor":"#0000ff","activateTransparency":1,"inactiveColor":"#00007f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":107,"id":"[\"LAYER\",3]"}||{"layerId":3,"layerType":"TOP_SILK","layerName":"Top Silkscreen Layer","use":true,"show":true,"locked":false,"activeColor":"#ffcc00","activateTransparency":1,"inactiveColor":"#7f6600","inactiveTransparency":1}|
+{"type":"LAYER","ticket":108,"id":"[\"LAYER\",4]"}||{"layerId":4,"layerType":"BOT_SILK","layerName":"Bottom Silkscreen Layer","use":true,"show":true,"locked":false,"activeColor":"#66cc33","activateTransparency":1,"inactiveColor":"#336619","inactiveTransparency":1}|
+{"type":"LAYER","ticket":109,"id":"[\"LAYER\",5]"}||{"layerId":5,"layerType":"TOP_SOLDER_MASK","layerName":"Top Solder Mask Layer","use":true,"show":true,"locked":false,"activeColor":"#800080","activateTransparency":0.7,"inactiveColor":"#400040","inactiveTransparency":1}|
+{"type":"LAYER","ticket":110,"id":"[\"LAYER\",6]"}||{"layerId":6,"layerType":"BOT_SOLDER_MASK","layerName":"Bottom Solder Mask Layer","use":true,"show":true,"locked":false,"activeColor":"#aa00ff","activateTransparency":0.7,"inactiveColor":"#55007f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":111,"id":"[\"LAYER\",7]"}||{"layerId":7,"layerType":"TOP_PASTE_MASK","layerName":"Top Paste Mask Layer","use":true,"show":true,"locked":false,"activeColor":"#808080","activateTransparency":1,"inactiveColor":"#404040","inactiveTransparency":1}|
+{"type":"LAYER","ticket":112,"id":"[\"LAYER\",8]"}||{"layerId":8,"layerType":"BOT_PASTE_MASK","layerName":"Bottom Paste Mask Layer","use":true,"show":true,"locked":false,"activeColor":"#800000","activateTransparency":1,"inactiveColor":"#400000","inactiveTransparency":1}|
+{"type":"LAYER","ticket":113,"id":"[\"LAYER\",9]"}||{"layerId":9,"layerType":"TOP_ASSEMBLY","layerName":"Top Assembly Layer","use":true,"show":true,"locked":false,"activeColor":"#33cc99","activateTransparency":1,"inactiveColor":"#19664c","inactiveTransparency":1}|
+{"type":"LAYER","ticket":114,"id":"[\"LAYER\",10]"}||{"layerId":10,"layerType":"BOT_ASSEMBLY","layerName":"Bottom Assembly Layer","use":true,"show":true,"locked":false,"activeColor":"#5555ff","activateTransparency":1,"inactiveColor":"#2a2a7f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":115,"id":"[\"LAYER\",11]"}||{"layerId":11,"layerType":"OUTLINE","layerName":"Board Outline Layer","use":true,"show":true,"locked":false,"activeColor":"#ff00ff","activateTransparency":1,"inactiveColor":"#7f007f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":116,"id":"[\"LAYER\",12]"}||{"layerId":12,"layerType":"MULTI","layerName":"Multi-Layer","use":true,"show":true,"locked":false,"activeColor":"#c0c0c0","activateTransparency":1,"inactiveColor":"#606060","inactiveTransparency":1}|
+{"type":"LAYER","ticket":117,"id":"[\"LAYER\",13]"}||{"layerId":13,"layerType":"DOCUMENT","layerName":"Document Layer","use":true,"show":true,"locked":false,"activeColor":"#ffffff","activateTransparency":1,"inactiveColor":"#7f7f7f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":118,"id":"[\"LAYER\",14]"}||{"layerId":14,"layerType":"MECHANICAL","layerName":"Mechanical Layer","use":true,"show":true,"locked":false,"activeColor":"#f022f0","activateTransparency":1,"inactiveColor":"#781178","inactiveTransparency":1}|
+{"type":"LAYER","ticket":119,"id":"[\"LAYER\",15]"}||{"layerId":15,"layerType":"SIGNAL","layerName":"Inner1","use":false,"show":false,"locked":false,"activeColor":"#999966","activateTransparency":1,"inactiveColor":"#4c4c33","inactiveTransparency":1}|
+{"type":"LAYER","ticket":120,"id":"[\"LAYER\",16]"}||{"layerId":16,"layerType":"SIGNAL","layerName":"Inner2","use":false,"show":false,"locked":false,"activeColor":"#008000","activateTransparency":1,"inactiveColor":"#004000","inactiveTransparency":1}|
+{"type":"LAYER","ticket":121,"id":"[\"LAYER\",17]"}||{"layerId":17,"layerType":"SIGNAL","layerName":"Inner3","use":false,"show":false,"locked":false,"activeColor":"#00ff00","activateTransparency":1,"inactiveColor":"#007f00","inactiveTransparency":1}|
+{"type":"LAYER","ticket":122,"id":"[\"LAYER\",18]"}||{"layerId":18,"layerType":"SIGNAL","layerName":"Inner4","use":false,"show":false,"locked":false,"activeColor":"#bc8e00","activateTransparency":1,"inactiveColor":"#5e4700","inactiveTransparency":1}|
+{"type":"LAYER","ticket":123,"id":"[\"LAYER\",19]"}||{"layerId":19,"layerType":"SIGNAL","layerName":"Inner5","use":false,"show":false,"locked":false,"activeColor":"#70dbfa","activateTransparency":1,"inactiveColor":"#386d7d","inactiveTransparency":1}|
+{"type":"LAYER","ticket":124,"id":"[\"LAYER\",20]"}||{"layerId":20,"layerType":"SIGNAL","layerName":"Inner6","use":false,"show":false,"locked":false,"activeColor":"#00cc66","activateTransparency":1,"inactiveColor":"#006633","inactiveTransparency":1}|
+{"type":"LAYER","ticket":125,"id":"[\"LAYER\",21]"}||{"layerId":21,"layerType":"SIGNAL","layerName":"Inner7","use":false,"show":false,"locked":false,"activeColor":"#9966ff","activateTransparency":1,"inactiveColor":"#4c337f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":126,"id":"[\"LAYER\",22]"}||{"layerId":22,"layerType":"SIGNAL","layerName":"Inner8","use":false,"show":false,"locked":false,"activeColor":"#800080","activateTransparency":1,"inactiveColor":"#400040","inactiveTransparency":1}|
+{"type":"LAYER","ticket":127,"id":"[\"LAYER\",23]"}||{"layerId":23,"layerType":"SIGNAL","layerName":"Inner9","use":false,"show":false,"locked":false,"activeColor":"#008080","activateTransparency":1,"inactiveColor":"#004040","inactiveTransparency":1}|
+{"type":"LAYER","ticket":128,"id":"[\"LAYER\",24]"}||{"layerId":24,"layerType":"SIGNAL","layerName":"Inner10","use":false,"show":false,"locked":false,"activeColor":"#15935f","activateTransparency":1,"inactiveColor":"#15935f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":129,"id":"[\"LAYER\",25]"}||{"layerId":25,"layerType":"SIGNAL","layerName":"Inner11","use":false,"show":false,"locked":false,"activeColor":"#000080","activateTransparency":1,"inactiveColor":"#000040","inactiveTransparency":1}|
+{"type":"LAYER","ticket":130,"id":"[\"LAYER\",26]"}||{"layerId":26,"layerType":"SIGNAL","layerName":"Inner12","use":false,"show":false,"locked":false,"activeColor":"#00b400","activateTransparency":1,"inactiveColor":"#005a00","inactiveTransparency":1}|
+{"type":"LAYER","ticket":131,"id":"[\"LAYER\",27]"}||{"layerId":27,"layerType":"SIGNAL","layerName":"Inner13","use":false,"show":false,"locked":false,"activeColor":"#2e4756","activateTransparency":1,"inactiveColor":"#17232b","inactiveTransparency":1}|
+{"type":"LAYER","ticket":132,"id":"[\"LAYER\",28]"}||{"layerId":28,"layerType":"SIGNAL","layerName":"Inner14","use":false,"show":false,"locked":false,"activeColor":"#99842f","activateTransparency":1,"inactiveColor":"#4c4217","inactiveTransparency":1}|
+{"type":"LAYER","ticket":133,"id":"[\"LAYER\",29]"}||{"layerId":29,"layerType":"SIGNAL","layerName":"Inner15","use":false,"show":false,"locked":false,"activeColor":"#ffffaa","activateTransparency":1,"inactiveColor":"#7f7f55","inactiveTransparency":1}|
+{"type":"LAYER","ticket":134,"id":"[\"LAYER\",30]"}||{"layerId":30,"layerType":"SIGNAL","layerName":"Inner16","use":false,"show":false,"locked":false,"activeColor":"#99842f","activateTransparency":1,"inactiveColor":"#4c4217","inactiveTransparency":1}|
+{"type":"LAYER","ticket":135,"id":"[\"LAYER\",31]"}||{"layerId":31,"layerType":"SIGNAL","layerName":"Inner17","use":false,"show":false,"locked":false,"activeColor":"#2e4756","activateTransparency":1,"inactiveColor":"#17232b","inactiveTransparency":1}|
+{"type":"LAYER","ticket":136,"id":"[\"LAYER\",32]"}||{"layerId":32,"layerType":"SIGNAL","layerName":"Inner18","use":false,"show":false,"locked":false,"activeColor":"#3535ff","activateTransparency":1,"inactiveColor":"#1a1a7f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":137,"id":"[\"LAYER\",33]"}||{"layerId":33,"layerType":"SIGNAL","layerName":"Inner19","use":false,"show":false,"locked":false,"activeColor":"#8000bc","activateTransparency":1,"inactiveColor":"#40005e","inactiveTransparency":1}|
+{"type":"LAYER","ticket":138,"id":"[\"LAYER\",34]"}||{"layerId":34,"layerType":"SIGNAL","layerName":"Inner20","use":false,"show":false,"locked":false,"activeColor":"#43ae5f","activateTransparency":1,"inactiveColor":"#21572f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":139,"id":"[\"LAYER\",35]"}||{"layerId":35,"layerType":"SIGNAL","layerName":"Inner21","use":false,"show":false,"locked":false,"activeColor":"#c3ecce","activateTransparency":1,"inactiveColor":"#617667","inactiveTransparency":1}|
+{"type":"LAYER","ticket":140,"id":"[\"LAYER\",36]"}||{"layerId":36,"layerType":"SIGNAL","layerName":"Inner22","use":false,"show":false,"locked":false,"activeColor":"#728978","activateTransparency":1,"inactiveColor":"#39443c","inactiveTransparency":1}|
+{"type":"LAYER","ticket":141,"id":"[\"LAYER\",37]"}||{"layerId":37,"layerType":"SIGNAL","layerName":"Inner23","use":false,"show":false,"locked":false,"activeColor":"#39503f","activateTransparency":1,"inactiveColor":"#1c281f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":142,"id":"[\"LAYER\",38]"}||{"layerId":38,"layerType":"SIGNAL","layerName":"Inner24","use":false,"show":false,"locked":false,"activeColor":"#0c715d","activateTransparency":1,"inactiveColor":"#06382e","inactiveTransparency":1}|
+{"type":"LAYER","ticket":143,"id":"[\"LAYER\",39]"}||{"layerId":39,"layerType":"SIGNAL","layerName":"Inner25","use":false,"show":false,"locked":false,"activeColor":"#5a8a80","activateTransparency":1,"inactiveColor":"#2d4540","inactiveTransparency":1}|
+{"type":"LAYER","ticket":144,"id":"[\"LAYER\",40]"}||{"layerId":40,"layerType":"SIGNAL","layerName":"Inner26","use":false,"show":false,"locked":false,"activeColor":"#2b937e","activateTransparency":1,"inactiveColor":"#15493f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":145,"id":"[\"LAYER\",41]"}||{"layerId":41,"layerType":"SIGNAL","layerName":"Inner27","use":false,"show":false,"locked":false,"activeColor":"#23999d","activateTransparency":1,"inactiveColor":"#114c4e","inactiveTransparency":1}|
+{"type":"LAYER","ticket":146,"id":"[\"LAYER\",42]"}||{"layerId":42,"layerType":"SIGNAL","layerName":"Inner28","use":false,"show":false,"locked":false,"activeColor":"#45b4e3","activateTransparency":1,"inactiveColor":"#225a71","inactiveTransparency":1}|
+{"type":"LAYER","ticket":147,"id":"[\"LAYER\",43]"}||{"layerId":43,"layerType":"SIGNAL","layerName":"Inner29","use":false,"show":false,"locked":false,"activeColor":"#215da1","activateTransparency":1,"inactiveColor":"#102e50","inactiveTransparency":1}|
+{"type":"LAYER","ticket":148,"id":"[\"LAYER\",44]"}||{"layerId":44,"layerType":"SIGNAL","layerName":"Inner30","use":false,"show":false,"locked":false,"activeColor":"#4564d7","activateTransparency":1,"inactiveColor":"#22326b","inactiveTransparency":1}|
+{"type":"LAYER","ticket":149,"id":"[\"LAYER\",45]"}||{"layerId":45,"layerType":"SIGNAL","layerName":"Inner31","use":false,"show":false,"locked":false,"activeColor":"#6969e9","activateTransparency":1,"inactiveColor":"#343474","inactiveTransparency":1}|
+{"type":"LAYER","ticket":150,"id":"[\"LAYER\",46]"}||{"layerId":46,"layerType":"SIGNAL","layerName":"Inner32","use":false,"show":false,"locked":false,"activeColor":"#9069e9","activateTransparency":1,"inactiveColor":"#483474","inactiveTransparency":1}|
+{"type":"LAYER","ticket":151,"id":"[\"LAYER\",47]"}||{"layerId":47,"layerType":"HOLE","layerName":"Hole Layer","use":true,"show":true,"locked":false,"activeColor":"#222222","activateTransparency":1,"inactiveColor":"#111111","inactiveTransparency":1}|
+{"type":"LAYER","ticket":152,"id":"[\"LAYER\",48]"}||{"layerId":48,"layerType":"COMPONENT_SHAPE","layerName":"Component Shape Layer","use":true,"show":false,"locked":false,"activeColor":"#00cccc","activateTransparency":1,"inactiveColor":"#006666","inactiveTransparency":1}|
+{"type":"LAYER","ticket":153,"id":"[\"LAYER\",49]"}||{"layerId":49,"layerType":"COMPONENT_MARKING","layerName":"Component Marking Layer","use":true,"show":false,"locked":false,"activeColor":"#66ffcc","activateTransparency":1,"inactiveColor":"#337f66","inactiveTransparency":1}|
+{"type":"LAYER","ticket":154,"id":"[\"LAYER\",50]"}||{"layerId":50,"layerType":"PIN_SOLDERING","layerName":"Pin Soldering Layer","use":true,"show":false,"locked":false,"activeColor":"#cc9999","activateTransparency":1,"inactiveColor":"#664c4c","inactiveTransparency":1}|
+{"type":"LAYER","ticket":155,"id":"[\"LAYER\",51]"}||{"layerId":51,"layerType":"PIN_FLOATING","layerName":"Pin Floating Layer","use":true,"show":false,"locked":false,"activeColor":"#ff99ff","activateTransparency":1,"inactiveColor":"#7f4c7f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":156,"id":"[\"LAYER\",52]"}||{"layerId":52,"layerType":"COMPONENT_MODEL","layerName":"Component Model Layer","use":false,"show":false,"locked":false,"activeColor":"#ffffff","activateTransparency":1,"inactiveColor":"#7f7f7f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":157,"id":"[\"LAYER\",53]"}||{"layerId":53,"layerType":"3D_SHELL_OUTLINE","layerName":"3D Shell Outline Layer","use":true,"show":true,"locked":false,"activeColor":"#66ff99","activateTransparency":1,"inactiveColor":"#337f4c","inactiveTransparency":1}|
+{"type":"LAYER","ticket":158,"id":"[\"LAYER\",54]"}||{"layerId":54,"layerType":"3D_SHELL_TOP","layerName":"3D Top Layer","use":true,"show":true,"locked":false,"activeColor":"#ffccff","activateTransparency":1,"inactiveColor":"#7f667f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":159,"id":"[\"LAYER\",55]"}||{"layerId":55,"layerType":"3D_SHELL_BOTTOM","layerName":"3D Bottom Layer","use":true,"show":true,"locked":false,"activeColor":"#0066cc","activateTransparency":1,"inactiveColor":"#003366","inactiveTransparency":1}|
+{"type":"LAYER","ticket":160,"id":"[\"LAYER\",56]"}||{"layerId":56,"layerType":"DRILL_DRAWING","layerName":"Drill Drawing Layer","use":true,"show":true,"locked":false,"activeColor":"#99ffff","activateTransparency":1,"inactiveColor":"#004040","inactiveTransparency":1}|
+{"type":"LAYER","ticket":161,"id":"[\"LAYER\",57]"}||{"layerId":57,"layerType":"OTHER","layerName":"Ratline Layer","use":true,"show":true,"locked":true,"activeColor":"#6464ff","activateTransparency":1,"inactiveColor":"#32327f","inactiveTransparency":1}|
+{"type":"LAYER","ticket":162,"id":"[\"LAYER\",58]"}||{"layerId":58,"layerType":"TOP_STIFFENER","layerName":"Top Stiffener Layer","use":false,"show":false,"locked":false,"activeColor":"#eee666","activateTransparency":1,"inactiveColor":"#777333","inactiveTransparency":1}|
+{"type":"LAYER","ticket":163,"id":"[\"LAYER\",59]"}||{"layerId":59,"layerType":"BOTTOM_STIFFENER","layerName":"Bottom Stiffener Layer","use":false,"show":false,"locked":false,"activeColor":"#ccff00","activateTransparency":1,"inactiveColor":"#667f00","inactiveTransparency":1}|
+{"type":"LAYER","ticket":164,"id":"[\"LAYER\",361]"}||{"layerId":361,"layerType":"SUBSTRATE","layerName":"Dielectric1","use":false,"show":false,"locked":false,"activeColor":"#000000","activateTransparency":1,"inactiveColor":"#000000","inactiveTransparency":1}|
+{"type":"LAYER_PHYS","ticket":165,"id":"[\"LAYER_PHYS\",3]"}||{"material":null,"thickness":0,"permittivity":null,"lossTangent":null,"isKeepIsland":true,"zIndex":1}|
+{"type":"LAYER_PHYS","ticket":166,"id":"[\"LAYER_PHYS\",7]"}||{"material":null,"thickness":0,"permittivity":null,"lossTangent":null,"isKeepIsland":true,"zIndex":2}|
+{"type":"LAYER_PHYS","ticket":167,"id":"[\"LAYER_PHYS\",5]"}||{"material":"","thickness":0.394,"permittivity":3.3,"lossTangent":0.02,"isKeepIsland":true,"zIndex":3}|
+{"type":"LAYER_PHYS","ticket":168,"id":"[\"LAYER_PHYS\",1]"}||{"material":null,"thickness":1.379,"permittivity":null,"lossTangent":null,"isKeepIsland":true,"zIndex":1000}|
+{"type":"LAYER_PHYS","ticket":169,"id":"[\"LAYER_PHYS\",361]"}||{"material":"FR4","thickness":59.449,"permittivity":4.5,"lossTangent":0,"isKeepIsland":true,"zIndex":1001}|
+{"type":"LAYER_PHYS","ticket":170,"id":"[\"LAYER_PHYS\",2]"}||{"material":null,"thickness":1.378,"permittivity":null,"lossTangent":null,"isKeepIsland":true,"zIndex":9000}|
+{"type":"LAYER_PHYS","ticket":171,"id":"[\"LAYER_PHYS\",6]"}||{"material":"","thickness":0.394,"permittivity":3.3,"lossTangent":0.02,"isKeepIsland":true,"zIndex":10000}|
+{"type":"LAYER_PHYS","ticket":172,"id":"[\"LAYER_PHYS\",8]"}||{"material":null,"thickness":0,"permittivity":null,"lossTangent":null,"isKeepIsland":true,"zIndex":10001}|
+{"type":"LAYER_PHYS","ticket":173,"id":"[\"LAYER_PHYS\",4]"}||{"material":null,"thickness":0,"permittivity":null,"lossTangent":null,"isKeepIsland":true,"zIndex":10002}|
+{"type":"ACTIVE_LAYER","ticket":174,"id":"ACTIVE_LAYER"}||{"layerId":1}|
+{"type":"RULE_TEMPLATE","ticket":175,"id":"RULE_TEMPLATE"}||{"name":"JLCPCB Capability(Two Layers Board)"}|
+{"type":"RULE","ticket":176,"id":"[\"RULE\",\"SAFE\",\"copperThickness1oz\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","isForAll":"ALL","safeSpacing":[{"layerId":1,"isOpen":true,"content":[[4.0157],[5.9843,5.9843],[5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,5.9843],[10,10,10,10,10,10,10,10],[11.811,6,6,6,6,6,6,10,6],[6,6,6,6,6,6,6,10,11.811,6],[6,6,6,6,6,6,6,10,6,6,6],[11.8,11.8,11.8,11.8,11.8,11.8,11.8,10,11.8,11.8,11.8],[6.929,6.929,6.929,6.929,6.929,6.929,6.929,10,6.929,6.929,6.929,6.929]],"columnNames":[]}]}}|
+{"type":"RULE","ticket":177,"id":"[\"RULE\",\"SAFE\",\"copperThickness2oz\"]"}||{"ruleState":"NORMAL","ruleContext":{"unit":"mm","isForAll":"ALL","safeSpacing":[{"layerId":1,"isOpen":true,"content":[[7.9921],[5.9843,5.9843],[5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,5.9843],[10,10,10,10,10,10,10,10],[11.811,5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,10,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,10,5.9843,5.9843],[5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,5.9843,10,5.9843,5.9843,5.9843],[11.811,11.811,11.811,11.811,11.811,11.811,11.811,10,11.811,11.811,11.811],[6.929,6.929,6.929,6.929,6.929,6.929,6.929,10,6.929,6.929,6.929,6.929]],"columnNames":[]}]}}|
+{"type":"RULE","ticket":178,"id":"[\"RULE\",\"OTHER\",\"otherClearance\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","deviceClearance":0,"thru2SmdClearance":0,"holeClearance":11.811}}|
+{"type":"RULE","ticket":179,"id":"[\"RULE\",\"CREEPAGE\",\"creepage\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","creepageDistance":0,"ignoreLayer":true}}|
+{"type":"RULE","ticket":180,"id":"[\"RULE\",\"TRACK\",\"copperThickness1oz\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroMin":5,"stroDef":10,"stroMax":100}]}}}|
+{"type":"RULE","ticket":181,"id":"[\"RULE\",\"TRACK\",\"copperThickness2oz\"]"}||{"ruleState":"NORMAL","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroMin":7.9921,"stroDef":10,"stroMax":100}]}}}|
+{"type":"RULE","ticket":182,"id":"[\"RULE\",\"NET_LENGTH\",\"netLength\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","netLenMin":0,"netLenMax":0}}|
+{"type":"RULE","ticket":183,"id":"[\"RULE\",\"NET_LENGTH_TOLERANCE\",\"netLengthTolerance\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","netLengthTolerance":1000}}|
+{"type":"RULE","ticket":184,"id":"[\"RULE\",\"DIFFER_ENTAIL\",\"differentialPair\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","stroWidth":{"isOpen":true,"content":[{"layerId":1,"stroMin":5,"stroMax":100,"stroDef":10}]},"spacing":{"isOpen":true,"content":[{"layerId":1,"spacMin":6,"spacDef":6}]},"differPairLenTolerMax":10,"toleranceUnit":"mm"}}|
+{"type":"RULE","ticket":185,"id":"[\"RULE\",\"BLIND\",\"blindVia\"]"}||{"ruleState":"DEFAULT","ruleContext":{"blinds":{"content":[]}}}|
+{"type":"RULE","ticket":186,"id":"[\"RULE\",\"RADIUS\",\"viaSize\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","minRadius":9.8425,"defRadius":12.0079,"maxRadius":196.8504,"minInner":5.9055,"defInner":6.0039,"maxInner":124.0157}}|
+{"type":"RULE","ticket":187,"id":"[\"RULE\",\"PLANE\",\"innerPlane\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","mulPad":{"isOpen":true,"content":[{"layerId":1,"connType":"DIVERGENCE","spoSpac":10,"spoWidth":10,"spoAng":90}]}}}|
+{"type":"RULE","ticket":188,"id":"[\"RULE\",\"COPPER\",\"copperRegion\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","sglPad":{"isOpen":true,"content":[{"layerId":1,"connType":"DIVERGENCE","spoSpac":10,"spoWidth":10,"spoAng":90}]},"mulPad":{"isOpen":true,"content":[{"layerId":1,"connType":"DIVERGENCE","spoSpac":10,"spoWidth":10,"spoAng":90}]},"track":{"isOpen":true,"content":[{"layerId":1,"connType":"DIRECT"}]}}}|
+{"type":"RULE","ticket":189,"id":"[\"RULE\",\"PASTE\",\"pasteMaskExpansion\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","padTopExpan":0,"padBotExpan":0,"testPointTopExpan":-1000,"testPointBotExpan":-1000}}|
+{"type":"RULE","ticket":190,"id":"[\"RULE\",\"SOLDER\",\"solderMaskExpansion\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","padTopExpan":2,"padBotExpan":2,"viaTopExpan":-1000,"viaBotExpan":-1000,"testPointTopExpan":2,"testPointBotExpan":2}}|
+{"type":"RULE","ticket":191,"id":"[\"RULE\",\"AUTO_ROUTER\",\"Common\"]"}||{"ruleState":"DEFAULT","ruleContext":{"routingCorner":"L45","isKeep":1,"viaQuantity":"LESS","routingEffectPriority":"COMPLETION_FIRST","layers":[1,2,12],"ignoreNets":[]}}|
+{"type":"PRIMITIVE","ticket":192,"id":"[\"PRIMITIVE\",\"COMPONENTSILK\"]"}||{"display":true,"pick":true}|
+{"type":"PRIMITIVE","ticket":193,"id":"[\"PRIMITIVE\",\"RATLINE\"]"}||{"display":false,"pick":false}|
+{"type":"PRIMITIVE","ticket":194,"id":"[\"PRIMITIVE\",\"PLANE\"]"}||{"display":false,"pick":false,"transparency":0.35}|
+{"type":"PRIMITIVE","ticket":195,"id":"[\"PRIMITIVE\",\"PARTITION\"]"}||{"display":false,"pick":false,"transparency":1}|
+{"type":"SILK_OPTS","ticket":196,"id":"[\"SILK_OPTS\",3]"}||{"defaultColor":"#000000","baseColor":"#FFFFFF"}|
+{"type":"SILK_OPTS","ticket":197,"id":"[\"SILK_OPTS\",4]"}||{"defaultColor":"#000000","baseColor":"#FFFFFF"}|
+{"type":"D3_ATTRIBUTE","ticket":198,"id":"D3_ATTRIBUTE"}||{"materials":"substrate_yellow","silkTechnology":"standardSilk","backgroundColor":"#000000","boardColor":"blue","sprayColor":"gold","layerExpose":0,"substrateHeight":0}|
+{"type":"PREFERENCE","ticket":199,"id":"PREFERENCE"}||{"startTrackWidthFollowLast":false,"lastTrackWidth":10,"startViaSizeFollowLast":false,"lastViaInnerDiameter":12.0078,"lastViaDiameter":24.0158,"snap":true,"routingMode":"SURROUND","routingCorner":"L45","removeLoop":true,"rotatingObject":false,"trackFollow":false,"stretchTrackMinCorner":1,"realTimeUpdateUnusedLayers":false,"unusedPadRange":"VIA","pushVia":"OPTIMIZA_OPEN","pathOptimization4BePushed":"SINGLE","currentPathOptimization4BePushed":"OPTIMIZA_WEAK","removeCircuitsContainingVias":true,"removeAntenna":true}|
+{"type":"PANELIZE","ticket":200,"id":"PANELIZE"}||{"on":false,"row":1,"column":1,"rowSpacing":0,"columnSpacing":0,"onlyOutline":true,"horizontalStamp":{"on":false,"stampHoleGroupQuantity":1,"stampHoleDiameter":21.6535,"stampHoleQuantityPerGroup":8,"stampHoleSpacing":33.4646,"center_percent":null},"verticalStamp":{"on":false,"stampHoleGroupQuantity":1,"stampHoleDiameter":21.6535,"stampHoleQuantityPerGroup":8,"stampHoleSpacing":33.4646,"center_percent":null},"horizontalSize":{"direction":0,"on":false,"sideHeight":236.2205,"positionHoleDiameter":78.7402,"markDiameter":39.3701,"markExpansion":19.685,"borderRadius":39.3701},"verticalSize":{"direction":1,"on":true,"sideHeight":236.2205,"positionHoleDiameter":78.7402,"markDiameter":39.3701,"markExpansion":19.685,"borderRadius":39.3701},"mirrorBoard":false,"mirrorEvenRow":false,"mirrorEvenCol":false,"evenRowRotation":0,"evenColRotation":0,"showVCutIndicator":true,"vCutLayer":13,"markPosition":null,"positionHolePosition":null,"panelizeVersion":"1.1"}|
+{"type":"RULE_SELECTOR","ticket":201,"id":"[\"RULE_SELECTOR\",[\"NET\",\"\"]]"}||{}|

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "rebuild_in_jlc",
+  "description": "把 KiCad PCB 重建为嘉立创EDA 专业版工程：转换、导入、反相补写、规则对齐、自动重铺、DRC、Gerber 导出与统计对照（开发预览）",
+  "description_full": "将已保存的 KiCad PCB 重建为嘉立创EDA 专业版的可编辑工程，并辅助完成规则设置、覆铜、DRC、Gerber 导出和统计对照。开发预览，需已登录的 EDA 桌面会话；输出需要人工复核。",
+  "identifier": "com.dafeiyu.rebuild-in-jlc",
+  "type": "plugin",
+  "author": {
+    "name": "ngHackerX86",
+    "contact": {
+      "web": "https://github.com/ngHackerX86"
+    }
+  },
+  "license": "MIT",
+  "resources": {
+    "homepage": "https://github.com/ngHackerX86/rebuild_in_jlceda",
+    "bug_tracker": "https://github.com/ngHackerX86/rebuild_in_jlceda/issues"
+  },
+  "versions": [
+    {
+      "version": "0.4.0",
+      "status": "development",
+      "kicad_version": "9.0"
+    }
+  ]
+}

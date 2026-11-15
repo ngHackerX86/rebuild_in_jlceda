@@ -1,0 +1,11 @@
+﻿* text=auto eol=lf
+*.docx binary
+*.doc  binary
+*.xlsx binary
+*.pptx binary
+*.png  binary
+*.jpg  binary
+*.zip  binary
+*.epro2 binary
+*.eprj3 -text
+*.epcb2 -text
