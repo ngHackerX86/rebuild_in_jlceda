@@ -171,6 +171,9 @@ def select(files: list[str]) -> list[str]:
             keep.append(f)
         elif f in DOC_FILES:
             keep.append(f)
+        elif f.startswith("docs/images/"):
+            # README 用的截图只在 GitHub 上渲染，不进发布包（避免体积膨胀）
+            continue
         elif any(f.startswith(d + "/") for d in DOC_DIRS + WITH_DIRS):
             keep.append(f)
     return keep
